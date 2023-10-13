@@ -12,6 +12,7 @@
 <a href="https://twitter.com/@hassan3ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hassan3ar" height="30" width="40" /></a>
 <a href="https://fb.com/@hasson1937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@hasson1937" height="30" width="40" /></a>
 <a href="http://www.instagram.com/f1.778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@f1.778" height="30" width="40" /></a>
+<a href="http://www.instagram.com/f1.778/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@f1.778" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
