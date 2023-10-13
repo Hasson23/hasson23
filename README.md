@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Abdullah Mohamed</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [KOBAC Teach Solutions](https://kobactech.github.io/Kobac/)
+- 🔭 I’m currently working on [KOBAC Tech Solutions](https://kobactech.github.io/Kobac/)
 
 - 🌱 I’m currently learning **React JS + Node Js**
 
