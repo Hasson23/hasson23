@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Abdullah Mohamed</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Front-End Developer</h3>
 
 - 🔭 I’m currently working on [KOBAC Tech Solutions](https://kobactech.github.io/Kobac/)
 
