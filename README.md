@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS + Node Js**
 
-- 👨‍💻 All of my projects are available at  [Hassan Abdullah](https://hasson23.github.io/Hassan-Abdullah/)
+- 👨‍💻 All of my projects are available at  [Hassan Abdullah](https://sacuudi.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
